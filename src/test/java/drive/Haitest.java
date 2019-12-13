@@ -6,4 +6,7 @@ public class Haitest {
 	System.out.println("Updated");
 
 	}
+	public void hai1() {
+			}
+	
 }
